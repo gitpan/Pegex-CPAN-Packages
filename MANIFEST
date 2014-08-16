@@ -12,6 +12,7 @@ lib/Pegex/CPAN/Packages.pod
 lib/Pegex/CPAN/Packages/Data.pm
 lib/Pegex/CPAN/Packages/Grammar.pm
 share/cpan-packages.pgx
+t/000-compile-modules.t
 t/02packages.txt
 t/release-pod-syntax.t
 t/test1.t
